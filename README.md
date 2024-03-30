@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ## Мои контакты
 
-`Telegram` - https://t.me/SegaObin
-`Email` - sergichgriov@gmail.com
+<a href="https://t.me/SegaObin"><img height="40" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"></a>.
+<a href="https://t.me/SegaObin"><img height="40" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>.
