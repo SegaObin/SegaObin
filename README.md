@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ## Мои контакты
 
 <a href="https://t.me/SegaObin"><img height="40" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"></a>.
-<a href="https://t.me/SegaObin"><img height="40" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>.
+<a href="sergichgriov@gmail.com"><img height="40" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>.
