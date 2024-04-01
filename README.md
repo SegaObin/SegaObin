@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   - Scikit-learn
   - TensorFlow
   - Keras
+  - Теория вероятностей и математическая статистика
+  - Математический анализ
+  - Линейная алгебра
 
 ## Мои контакты
   - `Telegram` - https://t.me/SegaObin
