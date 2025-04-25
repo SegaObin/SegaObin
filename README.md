@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## Мои контакты
   - `Telegram` - https://t.me/SegaObin
-  - `Gmail` - sergichgriov@gmail.com
+  - `Gmail` - segaobinspb@gmail.com
